@@ -1,2 +1,2 @@
 #!/bin/bash
-3l ./iacta
+head -3 iacta |tail +3
